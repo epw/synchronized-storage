@@ -1,4 +1,5 @@
-epw's Advent of Code Repository
+This is a project implementing persistent storage for Web pages that supports
+sending encrypted data to a server, and retrieving it elsewhere with a
+simplified identity model.
 
-This is a repository containing solutions for the 2020 Advent of Code
-(https://adventofcode.com/).
+This is not an officially supported Google product.
